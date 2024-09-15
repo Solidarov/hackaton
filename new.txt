@@ -1,6 +1,5 @@
 this is my new file
 blah blah blah
 so 
-i typed it in vim
-fun you 
-laba babba
+No no, there will be conflict in files
+I try to resolve it in notebook
