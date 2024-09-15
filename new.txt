@@ -1,5 +1,7 @@
+New file, new result
 this is my new file
 blah blah blah
 so 
 No no, there will be conflict in files
 I try to resolve it in notebook
+Sorry, I forgot to type this string
