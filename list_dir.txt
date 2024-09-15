@@ -1,1 +1,2 @@
-b_file.py
+This is conflict branch
+Now i try to resolve conflict
