@@ -1,0 +1,4 @@
+total 1
+drwxr-xr-x 1 Pavlo 197121  0 May 16 17:15 folder_test/
+-rw-r--r-- 1 Pavlo 197121  0 Jun 10 18:14 list_dir.txt
+-rw-r--r-- 1 Pavlo 197121 40 May 15 21:13 p_file.py
